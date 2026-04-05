@@ -1,9 +1,6 @@
-## Welcome to my profile 👋
-🛠 I'm a Full-Stack developer who's specializes in:
-- Back-End: C#, Python, Node.js
-- Front-End: React, Angular, HTML5, CSS3, ASP.NET, Razor
-- Databases: SQL, MongoDB, SQLite 
-- Cloud: Azure
-- Additional: Network Protocols, RESTFull API, Sockets, Docker, Unit Tests, Entity-Framework and much more.
+# Hi! 👋🏻
+My name is Liam, I'm a software engineer and former team lead at AWS. 
+- Currently studying Mathematics and Physics at the Open University of Israel.
+- Building [Deus](https://github.com/sliamh11/deus) — an open-source AI assistant with semantic memory, self-improvement, and container isolation.
 
-I'm also deeply familliar with Design Patterns & Data Structures.
+Feel free to reach out!
